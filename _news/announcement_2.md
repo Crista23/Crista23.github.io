@@ -6,3 +6,5 @@ related_posts: false
 ---
 
 New paper [HyPerAlign: Interpretable Personalized LLM Alignment via Hypothesis Generation](https://arxiv.org/pdf/2505.00038?)
+
+New paper [Evaluating the Goal-Directedness of Large Language Models](https://arxiv.org/pdf/2504.11844?)
