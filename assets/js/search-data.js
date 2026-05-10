@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-personalized-benchmarking-evaluating-llms-by-individual-preferences-was-accepted-to-acl-findings-2026-sparkles",
+          title: 'Our paper Personalized Benchmarking: Evaluating LLMs by Individual Preferences was accepted to ACL...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
