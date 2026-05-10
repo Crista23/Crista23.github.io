@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[RATE: Causal Explainability of Reward Models with Imperfect Counterfactuals](https://arxiv.org/pdf/2410.11348) is accepted to ICML 2025!
+[RATE: Causal Explainability of Reward Models with Imperfect Counterfactuals](https://arxiv.org/pdf/2410.11348) accepted to ICML&nbsp;2025
