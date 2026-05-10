@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Personalized Benchmarking: Evaluating LLMs by Individual Preferences](https://arxiv.org/pdf/2604.18943v1) was accepted to ACL (Findings) 2026! :sparkle:
+[Personalized Benchmarking: Evaluating LLMs by Individual Preferences](https://arxiv.org/pdf/2604.18943v1) was accepted to ACL (Findings) 2026! :sparkles:
