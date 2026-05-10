@@ -440,13 +440,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-bonbon-alignment-for-large-language-models-and-the-sweetness-of-best-of-n-sampling-is-accepted-to-neurips-2024",
+            },},{id: "news-bonbon-alignment-for-large-language-models-and-the-sweetness-of-best-of-n-sampling-is-accepted-to-neurips-2024-sparkles",
           title: 'BoNBoN Alignment for Large Language Models and the Sweetness of Best-of-n Sampling is...',
           description: "",
-          section: "News",},{id: "news-why-is-constrained-neural-language-generation-particularly-challenging-is-accepted-to-tmlr-2025",
+          section: "News",},{id: "news-why-is-constrained-neural-language-generation-particularly-challenging-is-accepted-to-tmlr-2025-sparkles",
           title: 'Why is constrained neural language generation particularly challenging? is accepted to TMLR 2025!...',
           description: "",
-          section: "News",},{id: "news-rate-causal-explainability-of-reward-models-with-imperfect-counterfactuals-is-accepted-to-icml-2025",
+          section: "News",},{id: "news-rate-causal-explainability-of-reward-models-with-imperfect-counterfactuals-is-accepted-to-icml-2025-sparkles",
           title: 'RATE: Causal Explainability of Reward Models with Imperfect Counterfactuals is accepted to ICML...',
           description: "",
           section: "News",},{id: "news-new-paper-evaluating-the-goal-directedness-of-large-language-models",
