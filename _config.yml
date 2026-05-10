@@ -157,6 +157,7 @@ collections:
   books:
     output: true
   news:
+    news_limit: 6
     defaults:
       layout: post
     output: true
@@ -164,8 +165,6 @@ collections:
     output: true
   teachings:
     output: true
-
-news_limit: 6
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
