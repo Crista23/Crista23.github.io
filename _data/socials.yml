@@ -5,7 +5,7 @@ cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: garbacea@uchicago.edu # your email address
 scholar_userid: 302eGI0AAAAJ # your Google Scholar ID
 linkedin: cristinagarbacea
-twitter: ggarbacea
+#twitter: ggarbacea
 #github_username: ggarbacea # Much more important for CS/AI
 #rss_icon: false # comment this line to hide the RSS icon
 
