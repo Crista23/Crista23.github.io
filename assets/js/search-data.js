@@ -456,7 +456,7 @@ ninja.data = [{
           title: 'New paper HyPerAlign: Interpretable Personalized LLM Alignment via Hypothesis Generation',
           description: "",
           section: "News",},{id: "news-personalized-benchmarking-evaluating-llms-by-individual-preferences-accepted-to-acl-findings-2026",
-          title: 'Personalized Benchmarking: Evaluating LLMs by Individual Preferences accepted to ACL Findings 2026',
+          title: 'Personalized Benchmarking: Evaluating LLMs by Individual Preferences accepted to ACL Findings 2026',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
