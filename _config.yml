@@ -6,8 +6,7 @@ title: Cristina Garbacea # the website title (if blank, full name will be used i
 first_name: Cristina
 middle_name:
 last_name: Garbacea
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Postdoctoral Scholar at the University of Chicago, Data Science Institute.
 footer_text: >
