@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a [Postdoctoral Scholar at the University of Chicago, Data Science Institute](https://datascience.uchicago.edu/), working with [Prof. Chenhao Tan](https://chenhaot.com/) and the [Chicago Human+AI (CHAI)](https://chicagohai.github.io/) research group. My research investigates the alignment, evaluation and control of large language models (LLMs). I have also collaborated with [Prof. Victor Veitch](https://www.victorveitch.com/).
+I am a [Postdoctoral Scholar at the University of Chicago, Data Science Institute](https://datascience.uchicago.edu/), working with [Prof. Chenhao Tan](https://chenhaot.com/) and the [Chicago Human+AI (CHAI)](https://chicagohai.github.io/) research group. My research focuses on the alignment, evaluation and control of large language models (LLMs). I have also collaborated with [Prof. Victor Veitch](https://www.victorveitch.com/).
 
 I earned my PhD in Computer Science and Engineering from the [University of Michigan](https://cse.engin.umich.edu/), advised by [Prof. Qiaozhu Mei](https://www.si.umich.edu/people/qiaozhu-mei). My academic background also includes an MSc in Artificial Intelligence ("cum laude") from the [University of Amsterdam](https://www.uva.nl/en) and a double BSc in Computer Science and Electrical Engineering from [Transilvania University of Brasov](https://www.unitbv.ro/en/).
 
