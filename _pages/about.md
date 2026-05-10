@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a [Postdoctoral Scholar at the University of Chicago Data Science Institute](https://datascience.uchicago.edu/), working with [Prof. Chenhao Tan](https://chenhaot.com/) within the Chicago Human+AI [CHAI Lab](https://chicagohai.github.io/) research group. My research investigates the alignment, interpretability, and control of large language models. I have also collaborated with Prof. Victor Veitch.
+I am a [Postdoctoral Scholar at the University of Chicago, Data Science Institute](https://datascience.uchicago.edu/), working with [Prof. Chenhao Tan](https://chenhaot.com/) within the [Chicago Human+AI CHAI](https://chicagohai.github.io/) research group. My research investigates the alignment, interpretability, and control of large language models. I have also collaborated with [Prof. Victor Veitch](https://www.victorveitch.com/).
 
-I earned my PhD in Computer Science and Engineering from the University of Michigan, advised by Prof. Qiaozhu Mei. My academic background also includes an MSc in Artificial Intelligence (cum laude) from the University of Amsterdam and a double BSc in Computer Science and Electrical Engineering from Transilvania University of Brasov.
+I earned my PhD in Computer Science and Engineering from the [University of Michigan](https://cse.engin.umich.edu/), advised by [Prof. Qiaozhu Mei](https://www.si.umich.edu/people/qiaozhu-mei). My academic background also includes an MSc in Artificial Intelligence ("cum laude") from the [University of Amsterdam](https://www.uva.nl/en) and a double BSc in Computer Science and Electrical Engineering from [Transilvania University of Brasov](https://www.unitbv.ro/en/).
 
-Complementing my academic work, I have completed multiple research internships with Google DeepMind (London) and Microsoft Research (Redmond, Montreal, Cambridge).
+Complementing my academic work, I have completed several Research Scientist internships at [Google DeepMind](https://deepmind.google/) (London) and [Microsoft Research](https://www.microsoft.com/en-us/research/) (Redmond, Montreal, Cambridge) during my graduate studies.
