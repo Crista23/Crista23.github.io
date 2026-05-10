@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-why-is-constrained-neural-language-generation-particularly-challenging-was-accepted-to-tmlr-2025",
+          title: 'Why is constrained neural language generation particularly challenging? was accepted to TMLR 2025!...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-new-paper-hyperalign-interpretable-personalized-llm-alignment-via-hypothesis-generation",
+          title: 'New paper HyPerAlign: Interpretable Personalized LLM Alignment via Hypothesis Generation',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-personalized-benchmarking-evaluating-llms-by-individual-preferences-was-accepted-to-acl-findings-2026-sparkles",
-          title: 'Our paper Personalized Benchmarking: Evaluating LLMs by Individual Preferences was accepted to ACL...',
+          section: "News",},{id: "news-personalized-benchmarking-evaluating-llms-by-individual-preferences-was-accepted-to-acl-findings-2026",
+          title: 'Personalized Benchmarking: Evaluating LLMs by Individual Preferences was accepted to ACL (Findings) 2026!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
