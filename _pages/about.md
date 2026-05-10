@@ -31,4 +31,4 @@ I earned my PhD in Computer Science and Engineering from the [University of Mich
 
 Complementing my academic work, I have completed several Research Scientist internships at [Google DeepMind](https://deepmind.google/) (London) and [Microsoft Research](https://www.microsoft.com/en-us/research/) (Redmond, Montreal, Cambridge) during my graduate studies.
 
-I welcome collaborations on LLM-related topics. If you would like to chat about a research idea, please feel free to reach out at [garbacea@uchicago.edu](mailto:garbacea@uchicago.edu).
+I welcome collaborations on LLM-related topics. If you would like to chat about a research idea, please feel free to reach out at [garbacea@uchicago.edu](mailto:garbacea@uchicago.edu) or [garbacea@umich.edu](mailto:garbacea@umich.edu).
