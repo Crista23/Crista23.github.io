@@ -440,11 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-why-is-constrained-neural-language-generation-particularly-challenging-was-accepted-to-tmlr-2025-sparkle",
+            },},{id: "news-why-is-constrained-neural-language-generation-particularly-challenging-was-accepted-to-tmlr-2025-sparkles",
           title: 'Why is constrained neural language generation particularly challenging? was accepted to TMLR 2025!...',
           description: "",
-          section: "News",},{id: "news-new-paper-hyperalign-interpretable-personalized-llm-alignment-via-hypothesis-generation-new-paper-evaluating-the-goal-directedness-of-large-language-models",
-          title: 'New paper HyPerAlign: Interpretable Personalized LLM Alignment via Hypothesis Generation New paper Evaluating...',
+          section: "News",},{id: "news-new-paper-evaluating-the-goal-directedness-of-large-language-models",
+          title: 'New paper Evaluating the Goal-Directedness of Large Language Models',
+          description: "",
+          section: "News",},{id: "news-new-paper-hyperalign-interpretable-personalized-llm-alignment-via-hypothesis-generation",
+          title: 'New paper HyPerAlign: Interpretable Personalized LLM Alignment via Hypothesis Generation',
           description: "",
           section: "News",},{id: "news-personalized-benchmarking-evaluating-llms-by-individual-preferences-was-accepted-to-acl-findings-2026-sparkle",
           title: 'Personalized Benchmarking: Evaluating LLMs by Individual Preferences was accepted to ACL (Findings) 2026!...',
