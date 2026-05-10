@@ -9,7 +9,6 @@ profile:
   image: img_cristina.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5460 S University Ave, Chicago IL 60615</p>
     <p>garbacea@uchicago.edu<p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Scholar at the University of Chicago Data Science Institute, working with Prof. Chenhao Tan ([CHAI Lab](https://chicagohai.github.io/)) within the Chicago Human+AI (CHAI) research group. I have also collaborated with Prof. Victor Veitch. My research investigates the alignment, interpretability, and control of large language models.
+I am a ([Postdoctoral Scholar at the University of Chicago Data Science Institute](https://datascience.uchicago.edu/)), working with ([Prof. Chenhao Tan](https://chenhaot.com/)) within the Chicago Human+AI ([CHAI Lab](https://chicagohai.github.io/)) research group. My research investigates the alignment, interpretability, and control of large language models. I have also collaborated with Prof. Victor Veitch.
 
 I earned my PhD in Computer Science and Engineering from the University of Michigan, advised by Prof. Qiaozhu Mei. My academic background also includes an MSc in Artificial Intelligence (cum laude) from the University of Amsterdam and a double BSc in Computer Science and Electrical Engineering from Transilvania University of Brasov.
 
