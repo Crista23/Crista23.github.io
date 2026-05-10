@@ -26,14 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PostDoctoral Scholar at the University of Chicago, Data Science Institute, where I am working with Prof. Chenhao Tan and the Chicago Human+AI (CHAI) research group. I have also collaborated with Prof. Victor Veitch.
+I am a Postdoctoral Scholar at the University of Chicago Data Science Institute, working with Prof. Chenhao Tan ([CHAI Lab](https://chicagohai.github.io/)) within the Chicago Human+AI (CHAI) research group. I have also collaborated with Prof. Victor Veitch. My research investigates the alignment, interpretability, and control of large language models.
 
-I have completed my PhD in Computer Science and Engineering at the University of Michigan Ann Arbor working with Prof. Qiaozhu Mei as part of Foreseer research group.
+I earned my PhD in Computer Science and Engineering from the University of Michigan, advised by Prof. Qiaozhu Mei. My academic background also includes an MSc in Artificial Intelligence (cum laude) from the University of Amsterdam and a double BSc in Computer Science and Electrical Engineering from Transilvania University of Brasov.
 
-My research interests primarily lie in machine learning and deep learning for natural language processing and its applications, spanning a wide variety of topics related to the alignment, interpretability and control of large language models (LLMs).
-
-Before starting my PhD at the University of Michigan, I completed my MSc degree in Artificial Intelligence (“cum laude”) at the University of Amsterdam, The Netherlands, where I was part of the Information and Language Processing Systems (ILPS) research group and affiliated with the Amsterdam Data Science Research Centre. I have a double BSc degree in Computer Science & Electrical Engineering and Computers from Transilvania University of Brasov, Romania.
-
-Throughout my graduate studies, I have done several research internships that have greatly inspired me and helped me expand my knowledge and skills. I spent Fall 2020 / Summer 2018 interning with Google Deepmind in London, UK, and Summer 2022 / 2016 / 2014 interning with Microsoft Research in Montreal, Canada / Redmond, Seattle, USA / Cambridge, UK.
-
-I am open to collaborations! If you have a great idea you would like to chat about and / or are interested in working together, please reach out at garbacea@umich.edu or garbacea@uchicago.edu.
+Complementing my academic work, I have completed multiple research internships with Google DeepMind (London) and Microsoft Research (Redmond, Montreal, Cambridge).
