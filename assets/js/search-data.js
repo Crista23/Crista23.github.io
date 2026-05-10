@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-bonbon-alignment-for-large-language-models-and-the-sweetness-of-best-of-n-sampling-accepted-to-neurips-2024",
-          title: 'BoNBoN Alignment for Large Language Models and the Sweetness of Best-of-n Sampling accepted...',
+            },},{id: "news-bonbon-alignment-for-large-language-models-and-the-sweetness-of-best-of-n-sampling-is-accepted-to-neurips-2024",
+          title: 'BoNBoN Alignment for Large Language Models and the Sweetness of Best-of-n Sampling is...',
           description: "",
           section: "News",},{id: "news-why-is-constrained-neural-language-generation-particularly-challenging-accepted-to-tmlr-2025",
           title: 'Why is constrained neural language generation particularly challenging? accepted to TMLR 2025',
