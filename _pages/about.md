@@ -30,3 +30,5 @@ I am a [Postdoctoral Scholar at the University of Chicago, Data Science Institut
 I earned my PhD in Computer Science and Engineering from the [University of Michigan](https://cse.engin.umich.edu/), advised by [Prof. Qiaozhu Mei](https://www.si.umich.edu/people/qiaozhu-mei). My academic background also includes an MSc in Artificial Intelligence ("cum laude") from the [University of Amsterdam](https://www.uva.nl/en) and a double BSc in Computer Science and Electrical Engineering from [Transilvania University of Brasov](https://www.unitbv.ro/en/).
 
 Complementing my academic work, I have completed several Research Scientist internships at [Google DeepMind](https://deepmind.google/) (London) and [Microsoft Research](https://www.microsoft.com/en-us/research/) (Redmond, Montreal, Cambridge) during my graduate studies.
+
+I welcome collaborations. Please reach out via [garbacea@uchicago.edu](mailto:garbacea@uchicago.edu) or [garbacea@umich.edu](mailto:garbacea@umich.edu).
