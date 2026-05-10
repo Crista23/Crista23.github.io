@@ -528,18 +528,11 @@ ninja.data = [{
           window.open("mailto:%67%61%72%62%61%63%65%61@%75%63%68%69%63%61%67%6F.%65%64%75", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
+        id: 'social-inspire',
+        title: 'Inspire HEP',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/ggarbacea", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/cristinagarbacea", "_blank");
+          window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
         id: 'social-rss',
@@ -554,6 +547,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=302eGI0AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
