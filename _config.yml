@@ -160,9 +160,9 @@ collections:
       layout: post
     output: true
   projects:
-    output: false
+    output: true
   teachings:
-    output: false
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -199,6 +199,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/
