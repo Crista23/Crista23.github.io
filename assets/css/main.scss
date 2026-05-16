@@ -38,17 +38,3 @@
 @use "font-awesome/solid";
 @use "font-awesome/regular";
 
-/* Override al-folio's default publication author highlight to be standard bold text */
-.publications a {
-   border-bottom: none !important;
-   background-color: transparent !important;
-}
-
-.publications .author em, 
-.publications .author strong,
-.publications [keyword="Garbacea"] { 
-   font-weight: 700 !important;
-   text-decoration: none !important;
-   border-bottom: none !important;
-   background: none !important;
-}
