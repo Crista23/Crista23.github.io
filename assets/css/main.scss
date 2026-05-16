@@ -38,3 +38,10 @@
 @use "font-awesome/solid";
 @use "font-awesome/regular";
 
+/* Core fix: Stop browsers from clipping the bottom border of publication badges */
+.publications .links a.btn {
+   border-width: 1px !important;
+   margin-bottom: 4px !important;
+   display: inline-flex !important;
+   align-items: center !important;
+}
