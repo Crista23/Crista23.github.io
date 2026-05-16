@@ -279,8 +279,13 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: ["Garbacea", "Gârbacea", "G{\^a}rbacea"]
-  first_name: ["Cristina", "Georgeta-Cristina"]
+  last_name:
+    - "Garbacea"
+    - "Gârbacea"
+    - "G{\\^a}rbacea"
+  first_name:
+    - "Cristina"
+    - "Georgeta-Cristina"
 
   style: apa
   locale: en
