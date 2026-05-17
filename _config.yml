@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Cristina Garbacea # the website title (if blank, full name will be used instead)
+title: Cristina G{\^a}rbacea # the website title (if blank, full name will be used instead)
 first_name: Cristina
 middle_name:
-last_name: Garbacea
+last_name: G{\^a}rbacea
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Postdoctoral Scholar at the University of Chicago, Data Science Institute.
