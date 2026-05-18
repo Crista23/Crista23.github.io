@@ -23,7 +23,7 @@ cv:
 
   sections:
     Education:
-      - institution: <a href="https://www.umich.edu" target="_blank" rel="noopener noreferrer">University of Michigan</a>
+      - institution: <a href="https://www.umich.edu" target="_blank" rel="noopener noreferrer"><b>University of Michigan</b></a>
         location: Ann Arbor, MI, USA
         area: Computer Science and Engineering
         studyType: Doctor of Philosophy (PhD)
@@ -35,7 +35,7 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
-      - institution: <a href="https://www.uva.nl" target="_blank" rel="noopener noreferrer">University of Amsterdam</a>
+      - institution: <a href="https://www.uva.nl" target="_blank" rel="noopener noreferrer"><b>University of Amsterdam</b></a>
         location: Amsterdam, NL
         area: Artificial Intelligence
         studyType: Master of Science (MSc)
@@ -45,7 +45,7 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
-      - institution: <a href="https://www.unitbv.ro/en/" target="_blank" rel="noopener noreferrer">Transilvania University of Brasov</a>
+      - institution: <a href="https://www.unitbv.ro/en/" target="_blank" rel="noopener noreferrer"><b>Transilvania University of Brasov</b></a>
         location: Brasov, RO
         area: Computer Science & EECS
         studyType: Bachelor of Science (BSc) in Computer Science<br /> <b>Bachelor of Engineering (BEng) in EECS
