@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-Please check my [Google Scholar](https://scholar.google.com/citations?user=G_Q96YcAAAAJ) page for the latest updates.
+Please check my [Google Scholar](https://scholar.google.com/citations?user=302eGI0AAAAJ&hl=en) page for the latest updates.
 
 <!-- _pages/publications.md -->
 
