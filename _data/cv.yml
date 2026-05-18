@@ -23,9 +23,8 @@ cv:
 
   sections:
     Education:
-      - institution: University of Michigan
+      - institution: <a href="https://www.umich.edu" target="_blank" rel="noopener noreferrer">University of Michigan</a>
         location: Ann Arbor, MI, USA
-        url: https://www.umich.edu
         area: Computer Science and Engineering
         studyType: Doctor of Philosophy (PhD)
         start_date: 2016
@@ -37,7 +36,7 @@ cv:
         #   - Description 2.
 
       - institution: University of Amsterdam
-        location: Amsterdam, The Netherlands
+        location: Amsterdam, NL
         area: Artificial Intelligence
         studyType: Master of Science (MSc)
         start_date: 2013
