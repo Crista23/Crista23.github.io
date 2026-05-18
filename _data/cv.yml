@@ -75,6 +75,25 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
+      - company: Google Deepmind
+        position: Research Scientist Intern
+        location: London, UK
+        start_date: 2018
+        end_date: 2020
+        highlights:
+          - Summer 2018
+          - Fall 2020
+
+      - company: Microsoft Research
+        position: Research Scientist Intern
+        location: Cambridge, UK / Redmond, USA / Montreal, Canada
+        start_date: 2022
+        end_date: 2014
+        highlights:
+          - Summer 2014
+          - Summer 2016
+          - Summer 2022
+
       - company: University of Amsterdam, Data Science Research Center
         position: Graduate Student Research Assistant
         location: Amsterdam, NL
