@@ -81,10 +81,10 @@ cv:
         start_date: 2021
         end_date: 2022
         highlights:
-          - Spring 2022, Capstone Project Supervisor, Master of Applied Data Science
-          - Fall 2021, EECS 492 - Introduction to Artificial Intelligence
+          - Capstone Project Supervisor, Master of Applied Data Science
+          - EECS 492 - Introduction to Artificial Intelligence
 
-      - company: Google Deepmind
+      - company: <a href="https://deepmind.google/" target="_blank" rel="noopener noreferrer"><b>Google Deepmind</b></a>
         position: Research Scientist Intern
         location: London, UK
         start_date: 2018
@@ -93,7 +93,7 @@ cv:
           - Fall 2020
           - Summer 2018
 
-      - company: Microsoft Research
+      - company: <a href="https://www.microsoft.com/en-us/research/" target="_blank" rel="noopener noreferrer"><b>Microsoft Research</b></a>
         position: Research Scientist Intern
         location: Redmond, Seattle
         start_date: 2014
@@ -103,7 +103,7 @@ cv:
           - Summer 2016, Redmond, Seattle
           - Summer 2014, Cambridge, UK
 
-      - company: University of Amsterdam, Data Science Research Center
+      - company: <a href="https://dsc.uva.nl/ target="_blank" rel="noopener noreferrer"><b>University of Amsterdam, Data Science Research Center</b></a>
         position: Graduate Student Research Assistant
         location: Amsterdam, NL
         start_date: 2013
