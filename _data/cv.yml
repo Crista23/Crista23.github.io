@@ -81,8 +81,8 @@ cv:
         start_date: 2018
         end_date: 2020
         highlights:
-          - Summer 2018
           - Fall 2020
+          - Summer 2018
 
       - company: Microsoft Research
         position: Research Scientist Intern
