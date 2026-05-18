@@ -23,13 +23,13 @@ cv:
 
   sections:
     Education:
-      - institution: University of Michigan
-        location: Ann Arbor, MI, USA
-        url: https://umich.edu/
-        area: Computer Science and Engineering
+      - institution: University of Zurich
+        location: Zurich, Switzerland
+        url: https://www.uzh.ch/
+        area: Physics
         studyType: PhD
-        start_date: 2016
-        end_date: 2023
+        start_date: 1900
+        end_date: 1905
         score: ""
         courses: "Theory of Relativity"
         highlights:
@@ -170,22 +170,20 @@ cv:
         issuer: Stanford University
         icon: fa-solid fa-envelope
 
-    Projects: []
-    # Projects:
-    #   - name: Quantum Computing
-    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-    #     highlights:
-    #       - Quantum Teleportation
-    #       - Quantum Cryptography
-    #     start_date: 2018-01-01
-    #     end_date: 2018-01-01
+    Projects:
+      - name: Quantum Computing
+        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+        highlights:
+          - Quantum Teleportation
+          - Quantum Cryptography
+        start_date: 2018-01-01
+        end_date: 2018-01-01
 
-    References: []
-    # References:
-    #   - name: Professor John Doe
-    #     icon: fa-solid fa-laptop
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    References:
+      - name: Professor John Doe
+        icon: fa-solid fa-laptop
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-    #   - name: Professor Jane Smith
-    #     icon: fa-solid fa-thumbtack
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Jane Smith
+        icon: fa-solid fa-thumbtack
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
