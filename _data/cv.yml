@@ -81,8 +81,8 @@ cv:
         start_date: 2021
         end_date: 2022
         highlights:
-          - Capstone Project Supervisor, Master of Applied Data Science
           - EECS 492 - Introduction to Artificial Intelligence
+          - Master of Applied Data Science, Capstone Project Supervisor
 
       - company: <a href="https://deepmind.google/" target="_blank" rel="noopener noreferrer"><b>Google Deepmind</b></a>
         position: Research Scientist Intern
@@ -90,8 +90,8 @@ cv:
         start_date: 2018
         end_date: 2020
         highlights:
-          - Fall 2020
-          - Summer 2018
+          - Fall 2020, London UK
+          - Summer 2018, London UK
 
       - company: <a href="https://www.microsoft.com/en-us/research/" target="_blank" rel="noopener noreferrer"><b>Microsoft Research</b></a>
         position: Research Scientist Intern
@@ -103,11 +103,14 @@ cv:
           - Summer 2016, Redmond, Seattle
           - Summer 2014, Cambridge, UK
 
-      - company: <a href="https://dsc.uva.nl/ target="_blank" rel="noopener noreferrer"><b>University of Amsterdam, Data Science Research Center</b></a>
+      - company: <a href="https://uva.nl/" target="_blank" rel="noopener noreferrer"><b>University of Amsterdam</b></a>
         position: Graduate Student Research Assistant
         location: Amsterdam, NL
         start_date: 2013
         end_date: 2016
+        highlights:
+          - <a href="https://irlab.science.uva.nl/about/information-and-language-processing-systems-group/" target="_blank" rel="noopener noreferrer"><b>Information and Language Processing Systems Group</b></a>
+          - <a href="https://dsc.uva.nl/" target="_blank" rel="noopener noreferrer"><b>Data Science Research Center</b></a>
 
     # Volunteer:
     #   - company: People's Climate March
