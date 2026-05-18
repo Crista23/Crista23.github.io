@@ -109,8 +109,8 @@ cv:
         start_date: 2013
         end_date: 2016
         highlights:
-          - <a href="https://irlab.science.uva.nl/about/information-and-language-processing-systems-group/" target="_blank" rel="noopener noreferrer"><b>Information and Language Processing Systems Group</b></a>
           - <a href="https://dsc.uva.nl/" target="_blank" rel="noopener noreferrer"><b>Data Science Research Center</b></a>
+          - <a href="https://irlab.science.uva.nl/about/information-and-language-processing-systems-group/" target="_blank" rel="noopener noreferrer"><b>Information and Language Processing Systems</b></a>
 
     # Volunteer:
     #   - company: People's Climate March
@@ -140,7 +140,7 @@ cv:
     #     summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: Please check
+      - title: "For an up-to-date list of peer-reviewed papers and preprints, please see <a href='/publications/'>Publications</a>."
     #   - title: Zur Elektrodynamik bewegter Körper
     #     authors:
     #       - Albert Einstein
