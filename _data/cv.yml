@@ -35,7 +35,7 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
-      - institution: <a href="https://www.uva.nl" target="_blank" rel="noopener noreferrer">University of Michigan</a>
+      - institution: <a href="https://www.uva.nl" target="_blank" rel="noopener noreferrer">University of Amsterdam</a>
         location: Amsterdam, NL
         area: Artificial Intelligence
         studyType: Master of Science (MSc)
