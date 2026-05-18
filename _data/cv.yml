@@ -90,9 +90,9 @@ cv:
         start_date: 2022
         end_date: 2014
         highlights:
-          - Summer 2022: Montreal, Canada
-          - Summer 2016: Redmond, Seattle
-          - Summer 2014: Cambridge, UK
+          - Summer 2022, Montreal, Canada
+          - Summer 2016, Redmond, Seattle
+          - Summer 2014, Cambridge, UK
 
       - company: University of Amsterdam, Data Science Research Center
         position: Graduate Student Research Assistant
