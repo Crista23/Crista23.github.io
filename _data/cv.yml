@@ -87,8 +87,8 @@ cv:
       - company: Microsoft Research
         position: Research Scientist Intern
         location: Redmond, Seattle
-        start_date: 2022
-        end_date: 2014
+        start_date: 2014
+        end_date: 2022
         highlights:
           - Summer 2022, Montreal, Canada
           - Summer 2016, Redmond, Seattle
