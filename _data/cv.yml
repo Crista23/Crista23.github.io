@@ -56,24 +56,24 @@ cv:
         #   - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - company: University of Chicago, Data Science Institute
+        position: Postdoctoral Scholar
+        location: Chicago, IL, USA
+        start_date: Sept 2023
+        end_date: present
+        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      - company: University of Michigan, CSE
+        position: Graduate Student Research Assistant
+        location: Ann Arbor, MI
+        start_date: 2016
+        end_date: 2023
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
       - company: Kaiser Wilhelm Institute for Physics
         position: Director
