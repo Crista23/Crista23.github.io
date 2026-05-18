@@ -86,13 +86,13 @@ cv:
 
       - company: Microsoft Research
         position: Research Scientist Intern
-        location: Cambridge, UK / Redmond, USA / Montreal, Canada
+        location: Redmond, Seattle
         start_date: 2022
         end_date: 2014
         highlights:
-          - Summer 2014
-          - Summer 2016
-          - Summer 2022
+          - Summer 2022: Montreal, Canada
+          - Summer 2016: Redmond, Seattle
+          - Summer 2014: Cambridge, UK
 
       - company: University of Amsterdam, Data Science Research Center
         position: Graduate Student Research Assistant
