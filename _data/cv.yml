@@ -48,7 +48,7 @@ cv:
       - institution: <a href="https://www.unitbv.ro/en/" target="_blank" rel="noopener noreferrer">Transilvania University of Brasov</a>
         location: Brasov, RO
         area: Computer Science & EECS
-        studyType: Bachelor of Science (BSc) in Computer Science and & Bachelor of Engineering (BEng) in EECS
+        studyType: Bachelor of Science (BSc) in Computer Science<br />Bachelor of Engineering (BEng) in EECS
         start_date: 2006
         end_date: 2010
         # highlights:
