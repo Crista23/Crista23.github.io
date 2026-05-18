@@ -1,6 +1,6 @@
 cv:
   name: Cristina G&acirc;rbacea
-  label: Postdoctoral Scholar, University of Chicago, Data Science Insitute
+  label: Postdoctoral Scholar, University of Chicago, Data Science Institute
   email: garbacea@uchicago.edu
   location: Chicago, Illinois, USA
   image: ""
@@ -24,10 +24,10 @@ cv:
   sections:
     Education:
       - institution: University of Michigan
-        location: Ann Arbor, MI< USA
+        location: Ann Arbor, MI, USA
         url: https://www.umich.edu
         area: Computer Science and Engineering
-        studyType: PhD
+        studyType: Doctor of Philosophy (PhD)
         start_date: 2016
         end_date: 2023
         # score: ""
@@ -36,15 +36,15 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: University of Amsterdam
+        location: Amsterdam, The Netherlands
+        area: Artificial Intelligence
+        studyType: Master of Science (MSc)
+        start_date: 2013
+        end_date: 2026
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
