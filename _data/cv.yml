@@ -56,7 +56,7 @@ cv:
         #   - Description 2.
 
     Experience:
-      - company: University of Chicago, Data Science Institute
+      - company: <a href="https://datascience.uchicago.edu/" target="_blank" rel="noopener noreferrer"><b>University of Chicago, Data Science Institute</b></a>
         position: Postdoctoral Scholar
         location: Chicago, IL, USA
         start_date: Sept 2023
