@@ -35,12 +35,22 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
-      - institution: University of Amsterdam
+      - institution: <a href="https://www.uva.nl" target="_blank" rel="noopener noreferrer">University of Michigan</a>
         location: Amsterdam, NL
         area: Artificial Intelligence
         studyType: Master of Science (MSc)
         start_date: 2013
         end_date: 2026
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
+
+      - institution: <a href="https://www.unitbv.ro/en/" target="_blank" rel="noopener noreferrer">Transilvania University of Brasov</a>
+        location: Brasov, RO
+        area: Computer Science & EECS
+        studyType: Bachelor of Science (BSc) in Computer Science and & Bachelor of Engineering (BEng) in EECS
+        start_date: 2006
+        end_date: 2010
         # highlights:
         #   - Description 1.
         #   - Description 2.
