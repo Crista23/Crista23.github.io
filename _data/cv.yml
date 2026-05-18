@@ -140,7 +140,7 @@ cv:
     #     summary: Awarded for outstanding scientific achievement
 
     Publications:
-      - title: "<span style='font-weight: normal;'>For an up-to-date list of peer-reviewed papers and preprints, please see <a href='/publications/'>Publications</a>.</span>"
+      - description: "<span style='font-weight: normal;'>For an up-to-date list of peer-reviewed papers and preprints, please see <a href='/publications/'>Publications</a>.</span>"
     #   - title: Zur Elektrodynamik bewegter Körper
     #     authors:
     #       - Albert Einstein
