@@ -66,7 +66,7 @@ cv:
         #   - Relativity
         #   - Description 2.
 
-      - company: University of Michigan, CSE
+      - company: <a href="https://cse.engin.umich.edu/" target="_blank" rel="noopener noreferrer"><b>University of Michigan, Computer Science and Engineering (CSE)</b></a>
         position: Graduate Student Research Assistant
         location: Ann Arbor, MI
         start_date: 2016
@@ -74,6 +74,15 @@ cv:
         # highlights:
         #   - Description 1.
         #   - Description 2.
+
+      - company: <a href="https://cse.engin.umich.edu/" target="_blank" rel="noopener noreferrer"><b>University of Michigan, Computer Science and Engineering (CSE)</b></a>
+        position: Graduate Student Teaching Instructor
+        location: Ann Arbor, MI
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - Spring 2022, Capstone Project Supervisor, Master of Applied Data Science
+          - Fall 2021, EECS 492 - Introduction to Artificial Intelligence
 
       - company: Google Deepmind
         position: Research Scientist Intern
