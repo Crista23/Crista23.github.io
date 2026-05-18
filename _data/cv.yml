@@ -1,10 +1,10 @@
 cv:
   name: "Cristina G&acirc;rbacea"
-  label: Postdoctoral Scholar, University of Chicago Data Science Institute
+  label: Postdoctoral Scholar, University of Chicago, Data Science Institute
   email: garbacea@uchicago.edu
   location: Chicago, IL
   image: ""
-  summary: Postdoctoral Scholar at the University of Chicago Data Science Institute, CSE PhD from University of Michigan
+  summary: Postdoctoral Scholar at the University of Chicago, Data Science Institute, CSE PhD from University of Michigan
 
   social_networks:
     - network: X
@@ -15,10 +15,10 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 5735 S Ellis Ave
+    city: Chicago
+    region: Illinois
+    postalCode: IL 60637
     countryCode: US
 
   sections:
