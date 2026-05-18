@@ -30,11 +30,11 @@ cv:
         studyType: PhD
         start_date: 2016
         end_date: 2023
-        # score: ""
-        # courses: "Theory of Relativity"
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
+        score: ""
+        courses: "Theory of Relativity"
+        highlights:
+          - Description 1.
+          - Description 2.
 
       - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
