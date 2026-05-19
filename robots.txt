@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Crista23.github.io/sitemap.xml
+Sitemap: https://cristinagarbacea.com/sitemap.xml
