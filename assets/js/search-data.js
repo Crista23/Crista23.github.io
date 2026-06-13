@@ -409,7 +409,7 @@ ninja.data = [{
           section: "News",},{id: "news-personalized-benchmarking-evaluating-llms-by-individual-preferences-is-accepted-to-acl-findings-2026-sparkles",
           title: 'Personalized Benchmarking: Evaluating LLMs by Individual Preferences is accepted to ACL Findings 2026 :sparkles:',
           description: "",
-          section: "News",},{id: "news-large-language-models-should-learn-personalized-rather-than-aggregated-human-preferences-is-accepted-to-icml-2026-position-paper-track-sparkles",
+          section: "News",},{id: "news-large-language-models-should-learn-personalized-rather-than-aggregated-human-preferences-is-accepted-to-icml-2026-sparkles",
           title: 'Large Language Models Should Learn Personalized Rather Than Aggregated Human Preferences is accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",
