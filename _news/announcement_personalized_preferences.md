@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Large Language Models Should Learn Personalized Rather Than Aggregated Human Preferences](https://arxiv.org/pdf/2606.07629) is accepted to ICML 2026 :sparkles:
+[Large Language Models Should Learn Personalized Rather Than Aggregated Human Preferences](https://arxiv.org/abs/2606.07629) is accepted to ICML 2026 - Position Paper Track :sparkles:
