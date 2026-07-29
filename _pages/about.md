@@ -25,12 +25,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+> 🚀 **Prospective Students & Postdocs:** 
+
+Starting September 2026, I will join the **[CISPA Helmholtz Center for Information Security](https://cispa.de/)** as Tenure-Track Faculty & Chief Scientist, where I am founding the **CRISTAL Lab** (*Communication, Reasoning, Intelligence & Safety for Trustworthy Alignment*). I am actively recruiting fully funded **PhD students, Postdocs and interns** to join our founding team! If you are interested in LLM alignment, AI safety, or agentic reasoning, please reach out.
+
+---
 
 ### Biography
 
 I am a [Postdoctoral Scholar at the University of Chicago, Data Science Institute](https://datascience.uchicago.edu/), working with [Prof. Chenhao Tan](https://chenhaot.com/) and the [Chicago Human+AI (CHAI)](https://chicagohai.github.io/) research group. I previously collaborated with [Prof. Victor Veitch](https://www.victorveitch.com/).
 
-I earned my PhD in Computer Science and Engineering from the [University of Michigan](https://cse.engin.umich.edu/), advised by [Prof. Qiaozhu Mei](https://www.si.umich.edu/people/qiaozhu-mei). My academic background also includes an MSc in Artificial Intelligence (*cum laude*) from the [University of Amsterdam](https://www.uva.nl/en) and a double BSc in Computer Science and Electrical Engineering from [Transilvania University of Brasov](https://www.unitbv.ro/en/).
+I earned my PhD in Computer Science and Engineering from the [University of Michigan](https://cse.engin.umich.edu/), advised by [Prof. Qiaozhu Mei](https://www.si.umich.edu/people/qiaozhu-mei). My academic background also includes an MSc in Artificial Intelligence (*cum laude*) from the [University of Amsterdam](https://www.uva.nl/en), and a double BSc in Computer Science and Electrical Engineering from [Transilvania University of Brasov](https://www.unitbv.ro/en/).
 
 Complementing my academic work, I have completed several Research Scientist internships at [Google DeepMind](https://deepmind.google/) (London) and [Microsoft Research](https://www.microsoft.com/en-us/research/) (Redmond, Montreal, Cambridge) during my graduate studies.
 
