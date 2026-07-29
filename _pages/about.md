@@ -33,14 +33,18 @@ Complementing my academic work, I have completed several Research Scientist inte
 
 ---
 
+
 ### Research Vision & Core Pillars
 
-My research centers on building safe, adaptable, and human-centric artificial intelligence. As foundation models become deeply integrated into society, static, one-size-fits-all alignment paradigms are insufficient. My work addresses these challenges across four core areas:
+My research focuses on building human-aligned, safe, trustworthy and continuously adaptable AI systems. As foundation models transition from static text generators to active real-world agents, my work addresses core alignment, safety and adaptability challenges across the following key pillars:
 
-* 🎯 **LLM Alignment:** Developing principled, scalable methods to ensure foundation models adhere to human intent, values, and context-aware expectations.
-* 🛡️ **AI Safety & Robustness:** Developing verifiable alignment mechanisms, safety guarantees, and risk mitigation strategies for foundation models.
-* 🤖 **Agentic AI & Continual Learning:** Investigating autonomous, agentic reasoning systems capable of long-horizon task planning and adaptation without catastrophic forgetting or safety drift.
-* 📊 **Dynamic Benchmarking & Evaluation:** Creating scalable, adaptive evaluation environments resilient to benchmark contamination and saturation to accurately measure LLM capabilities.
+* 🎯 **LLM Alignment:** Developing principled, scalable methods to ensure foundation models adhere to human intent, values, and context-aware expectations across diverse user preferences.
+
+* 🛡️ **AI Safety & Robustness:** Developing verifiable alignment mechanisms, safety guarantees, and risk mitigation strategies for foundation models against unexpected failures and adversarial exploits.
+
+* 🤖 **Agentic AI & Continual Learning:** Investigating autonomous reasoning systems capable of long-horizon planning and tool interaction that adapt over time without safety drift or catastrophic forgetting.
+
+* 📊 **Benchmarking & Evaluation:** Creating evaluation environments resilient to benchmark contamination to accurately measure evolving AI capabilities and track real-world alignment progress.
 
 ---
 
