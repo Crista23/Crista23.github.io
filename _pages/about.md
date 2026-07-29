@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: '<a href="https://datascience.uchicago.edu/">Postdoctoral Scholar at UChicago DSI</a> | Incoming Tenure-Track Faculty @ CISPA'
+subtitle: '<a href="https://datascience.uchicago.edu/">Postdoctoral Scholar at UChicago DSI</a> | Incoming Tenure-Track Faculty & Chief Scientist at <a href="https://cispa.de/en">CISPA</a>'
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 <div class="alert alert-info" role="alert" style="display: flow-root; border-left: 4px solid #17a2b8; background-color: rgba(23, 162, 184, 0.08); padding: 1rem; border-radius: 4px; margin-bottom: 1.5rem;">
-  🚀 <strong>Prospective PhD Students, Postdocs, and Interns:</strong> Starting September 2026, I will join the <a href="https://cispa.de/" class="alert-link">CISPA Helmholtz Center for Information Security</a> as Tenure-Track Faculty & Chief Scientist, where I am founding the 💎 <strong>CRISTAL Lab</strong> (<em>Communication, Reasoning, Intelligence & Safety for Trustworthy Alignment</em>). I am actively recruiting fully funded <strong>PhD students, Postdocs, and Interns</strong> to join our founding team! If you are interested in LLM alignment, AI safety, or agentic reasoning, please reach out.
+  🚀 <strong>Prospective PhD Students, Postdocs, and Interns:</strong> Starting September 2026, I will join the <a href="https://cispa.de/en" class="alert-link">CISPA Helmholtz Center for Information Security</a> as Tenure-Track Faculty & Chief Scientist, where I am founding the 💎 <strong>CRISTAL Lab</strong> (<em>Communication, Reasoning, Intelligence & Safety for Trustworthy Alignment</em>). I am actively recruiting fully funded <strong>PhD students, Postdocs, and Interns</strong> to join our founding team! If you are interested in LLM alignment, AI safety, or agentic reasoning, please reach out.
 </div>
 
 <hr style="margin-top: 2rem; margin-bottom: 2rem;">
