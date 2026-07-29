@@ -29,7 +29,6 @@ latest_posts:
   🚀 <strong>Prospective PhD Students, Postdocs, and Interns:</strong> Starting September 2026, I will join the <a href="https://cispa.de/" class="alert-link">CISPA Helmholtz Center for Information Security</a> as Tenure-Track Faculty & Chief Scientist, where I am founding the 💎 <strong>CRISTAL Lab</strong> (<em>Communication, Reasoning, Intelligence & Safety for Trustworthy Alignment</em>). I am actively recruiting fully funded <strong>PhD students, Postdocs, and Interns</strong> to join our founding team! If you are interested in LLM alignment, AI safety, or agentic reasoning, please reach out.
 </div>
 
-<div style="clear: both;"></div>
 <hr style="margin-top: 1rem; margin-bottom: 2rem;">
 
 ---
