@@ -51,7 +51,8 @@ My research focuses on building human-aligned, safe, trustworthy and continuousl
 
 ---
 
+### Get in Touch
 
-I welcome collaborations on LLM-related topics. If you would like to chat about a research idea, feel free to reach out at [garbacea@uchicago.edu](mailto:garbacea@uchicago.edu) or [garbacea@umich.edu](mailto:garbacea@umich.edu).
+I welcome collaborations on LLM alignment and safety. If you would like to discuss research ideas or lab opportunities, feel free to reach out at [garbacea@uchicago.edu](mailto:garbacea@uchicago.edu) or [garbacea@umich.edu](mailto:garbacea@umich.edu).
 
 ---
