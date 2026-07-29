@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: '<a href="https://datascience.uchicago.edu/">Postdoctoral Scholar at UChicago DSI</a> | Incoming Tenure-Track Faculty & Chief Scientist at <a href="https://cispa.de/en">CISPA</a>'
+subtitle: 'Postdoctoral Scholar at <a href="https://datascience.uchicago.edu/">UChicago DSI</a> | Incoming Tenure-Track Faculty & Chief Scientist at <a href="https://cispa.de/en">CISPA</a>'
 
 profile:
   align: right
