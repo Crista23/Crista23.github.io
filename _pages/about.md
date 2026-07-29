@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: '<a href="https://datascience.uchicago.edu/">Postdoctoral Scholar at UChicago DSI</a>'
+subtitle: "[Postdoctoral Scholar at UChicago DSI](https://datascience.uchicago.edu/)"
 
 profile:
   align: right
