@@ -31,7 +31,6 @@ latest_posts:
 
 <hr style="margin-top: 1rem; margin-bottom: 2rem;">
 
----
 
 ### Biography
 
