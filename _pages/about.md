@@ -31,4 +31,18 @@ I earned my PhD in Computer Science and Engineering from the [University of Mich
 
 Complementing my academic work, I have completed several Research Scientist internships at [Google DeepMind](https://deepmind.google/) (London) and [Microsoft Research](https://www.microsoft.com/en-us/research/) (Redmond, Montreal, Cambridge) during my graduate studies.
 
+---
+
+### Research Vision & Core Pillars
+
+My research centers on building safe, adaptable, and human-centric artificial intelligence. As foundation models become deeply integrated into society, static, one-size-fits-all alignment paradigms are insufficient. My work addresses these challenges across four core areas:
+
+* 🎯 **LLM Alignment:** Developing principled, scalable methods to ensure foundation models adhere to human intent, values, and context-aware expectations.
+* 🛡️ **AI Safety & Robustness:** Developing verifiable alignment mechanisms, safety guarantees, and risk mitigation strategies for foundation models.
+* 🤖 **Agentic AI & Continual Learning:** Investigating autonomous, agentic reasoning systems capable of long-horizon task planning and adaptation without catastrophic forgetting or safety drift.
+* 📊 **Dynamic Benchmarking & Evaluation:** Creating scalable, adaptive evaluation environments resilient to benchmark contamination and saturation to accurately measure LLM capabilities.
+
+---
+
+
 I welcome collaborations on LLM-related topics. If you would like to chat about a research idea, feel free to reach out at [garbacea@uchicago.edu](mailto:garbacea@uchicago.edu) or [garbacea@umich.edu](mailto:garbacea@umich.edu).
