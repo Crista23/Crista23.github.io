@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: '<a href="https://datascience.uchicago.edu/">Postdoctoral Scholar at UChicago DSI</a>'
+subtitle: '<a href="https://datascience.uchicago.edu/">Postdoctoral Scholar at UChicago DSI</a> | Incoming Tenure-Track Faculty @ CISPA'
 
 profile:
   align: right
@@ -25,9 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-> 🚀 **Prospective PhD Students, Postdocs and Interns:** 
-
-Starting September 2026, I will join the **[CISPA Helmholtz Center for Information Security](https://cispa.de/)** as Tenure-Track Faculty & Chief Scientist, where I am founding the **💎 CRISTAL Lab** -- *Communication, Reasoning, Intelligence & Safety for Trustworthy Alignment*. I am actively recruiting fully funded **PhD students, Postdocs and interns** to join our founding team! If you are interested in LLM alignment, AI safety, or agentic reasoning, please reach out.
+> 🚀 **Prospective PhD Students, Postdocs and Interns:** Starting September 2026, I will join the **[CISPA Helmholtz Center for Information Security](https://cispa.de/)** as Tenure-Track Faculty & Chief Scientist, where I am founding the 💎 **CRISTAL Lab** (*Communication, Reasoning, Intelligence & Safety for Trustworthy Alignment*). I am actively recruiting fully funded **PhD students, Postdocs and interns** to join our founding team! If you are interested in LLM alignment, AI safety, or agentic reasoning, please reach out.
 
 ---
 
@@ -58,6 +56,6 @@ My research focuses on building human-aligned, safe, trustworthy and continuousl
 
 ### Contact
 
-I welcome collaborations on LLM alignment and safety. If you would like to discuss research ideas or 💎 CRISTAL lab opportunities, feel free to reach out at [garbacea@uchicago.edu](mailto:garbacea@uchicago.edu) or [garbacea@umich.edu](mailto:garbacea@umich.edu).
+I welcome collaborations on LLM related topics. If you would like to discuss research ideas or 💎 CRISTAL lab opportunities, feel free to reach out at [garbacea@uchicago.edu](mailto:garbacea@uchicago.edu) or [garbacea@umich.edu](mailto:garbacea@umich.edu).
 
 ---
