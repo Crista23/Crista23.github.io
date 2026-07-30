@@ -11,10 +11,10 @@ nav_order: 2
 
   <article>
   
-<div style="background-color: var(--global-card-bg-color, rgba(20, 184, 166, 0.08)); border-left: 4px solid #14b8a6; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
-  <h2 style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.5rem; font-weight: 600; color: var(--global-text-color, inherit);">🚀 Open Positions: PhD, Postdoc &amp; Research Interns</h2>
-  <p style="margin-bottom: 0; color: var(--global-text-color, inherit); font-size: 1rem; line-height: 1.5;">
-    We are recruiting fully funded researchers in <strong style="color: var(--global-text-color, inherit);">Trustworthy AI &amp; Alignment</strong> at the CISPA Helmholtz Center for Information Security. Positions available as early as Fall 2026!
+<div style="background-color: rgba(20, 184, 166, 0.08); border-left: 4px solid #14b8a6; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
+  <h2 style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.5rem; font-weight: 600; color: inherit;">🚀 Open Positions: PhD, Postdoc &amp; Research Interns</h2>
+  <p style="margin-bottom: 0; color: inherit; font-size: 1rem; line-height: 1.5;">
+    We are recruiting fully funded researchers in <strong>Trustworthy AI &amp; Alignment</strong> at the CISPA Helmholtz Center for Information Security. Positions available as early as Fall 2026!
   </p>
 </div>
 
@@ -81,16 +81,16 @@ nav_order: 2
 
 <h2>📩 How to Apply</h2>
 
-<div style="background-color: var(--global-card-bg-color, rgba(20, 184, 166, 0.08)); border-left: 4px solid #14b8a6; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
-  <p style="margin-top: 0; color: var(--global-text-color, inherit);">Send your complete application package directly to:</p>
+<div style="background-color: rgba(20, 184, 166, 0.08); border-left: 4px solid #14b8a6; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
+  <p style="margin-top: 0; color: inherit;">Send your complete application package directly to:</p>
   
-  <p style="color: var(--global-text-color, inherit);">
+  <p style="color: inherit;">
     <strong>Dr. Cristina Gârbacea</strong> — <a href="mailto:garbacea@uchicago.edu">garbacea@uchicago.edu</a><br>
     <span style="opacity: 0.8;">Director, CRISTAL Lab | Tenure-Track Faculty &amp; Chief Scientist at CISPA</span>
   </p>
 
-  <p style="margin-bottom: 0.25rem; color: var(--global-text-color, inherit);"><strong>Subject Line Format:</strong></p>
-  <code style="background-color: rgba(20, 184, 166, 0.15); padding: 0.2rem 0.4rem; border-radius: 4px; color: var(--global-text-color, inherit); font-weight: 600;">[CRISTAL Application] [PhD / Postdoc / Research Intern] Your Name</code>
+  <p style="margin-bottom: 0.25rem; color: inherit;"><strong>Subject Line Format:</strong></p>
+  <code style="background-color: rgba(20, 184, 166, 0.18); padding: 0.2rem 0.4rem; border-radius: 4px; color: inherit; font-weight: 600;">[CRISTAL Application] [PhD / Postdoc / Research Intern] Your Name</code>
 </div>
 
 <p>🗓️ <strong>Timeline:</strong></p>
