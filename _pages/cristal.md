@@ -71,7 +71,7 @@ nav_order: 2
 
 <h3>2. Evaluation Criteria</h3>
     <ul>
-      <li><strong>PhD Applicants:</strong> Curiosity, critical thinking, technical background (projects, coursework, or early research), and growth trajectory.</li>
+      <li><strong>PhD & Intern Applicants:</strong> Curiosity, critical thinking, technical background (projects, coursework, or early research), and growth trajectory.</li>
       <li><strong>Postdoctoral Applicants:</strong> Scientific independence, publication track record in relevant venues (NeurIPS, ICML, ICLR, ACL, EMNLP, COLM, etc.), leadership potential, and alignment with CRISTAL's core vision.</li>
     </ul>
 
