@@ -36,8 +36,8 @@ nav_order: 2
 <hr>
 
 <h2>💼 Open Positions & What We Offer</h2>
-    <p>We invite applications for fully funded <strong>PhD Positions</strong>, <strong>Postdoctoral Scholar Positions</strong>, and <strong>Research Internships</strong> (BSc/MSc/PhD levels) in CS, ML, NLP, AI Safety, and related fields.</p>
-
+    <p>We invite applications for fully funded <strong>PhD Students, Postdoctoral Researchers, and Research Interns (BSc/MSc/PhD)</strong> in CS, ML, NLP, AI Safety, and related fields.</p>
+    
 <h3>Why Join CRISTAL?</h3>
     <ul>
       <li><strong>Shape a Founding Lab:</strong> Help define the scientific trajectory and culture of a dynamic, new research group from day one.</li>
