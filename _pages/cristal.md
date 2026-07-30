@@ -1,17 +1,13 @@
 ---
 layout: page
-title: CRISTAL Lab
+title: 💎 CRISTAL Lab
+description: Communication, Reasoning, Intelligence & Safety for Trustworthy Alignment
 permalink: /cristal/
 nav: true
 nav_order: 2
 ---
 
 <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">💎 CRISTAL Lab</h1>
-    <p class="post-description">Communication, Reasoning, Intelligence & Safety for Trustworthy Alignment</p>
-  </header>
 
   <article>
 
