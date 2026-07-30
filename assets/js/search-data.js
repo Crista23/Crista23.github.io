@@ -10,8 +10,8 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-cristal-lab",
-          title: "CRISTAL Lab",
-          description: "",
+          title: "💎 CRISTAL Lab",
+          description: "Communication, Reasoning, Intelligence &amp; Safety for Trustworthy Alignment",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cristal/";
