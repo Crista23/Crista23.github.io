@@ -84,7 +84,7 @@ nav_order: 2
 
 <p style="font-size: 1.1rem; margin: 0.5rem 0;">
         <strong>Dr. Cristina Garbacea</strong> — <a href="mailto:garbacea@uchicago.edu">garbacea@uchicago.edu</a><br>
-        <small style="color: var(--global-text-color-light);">Founding Director, CRISTAL Lab | Faculty & Chief Scientist at CISPA</small>
+        <small style="color: var(--global-text-color-light);">Director, CRISTAL Lab | Faculty & Chief Scientist at CISPA</small>
       </p>
 
 <p style="margin-top: 1rem; margin-bottom: 0.5rem;"><strong>Subject Line Format:</strong></p>
