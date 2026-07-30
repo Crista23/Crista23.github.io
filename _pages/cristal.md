@@ -107,12 +107,19 @@ nav_order: 2
   <code style="background-color: rgba(20, 184, 166, 0.18); padding: 0.2rem 0.4rem; border-radius: 4px; color: inherit; font-weight: 600;">[CRISTAL Application] [PhD / Postdoc / Research Intern] Your Name</code>
 </div>
 
-<p><strong>Timeline:</strong></p>
-    <ul>
-      <li>Applications are reviewed on a <strong>rolling basis</strong>. Priority review begins <strong>September 15th, 2026</strong>.</li>
-      <li>Start dates are flexible, available as early as <strong>Fall 2026</strong>.</li>
-      <li><em>For informal inquiries or pre-application questions, feel free to reach out to <a href="mailto:garbacea@uchicago.edu">garbacea@uchicago.edu</a>.</em></li>
-    </ul>
+
+<h3 style="margin-top: 2rem; margin-bottom: 0.75rem;">Timeline &amp; Start Dates</h3>
+
+<p style="margin-bottom: 0.75rem;">Applications are evaluated on a <strong>rolling basis</strong> year-round, with review timelines tailored by role:</p>
+
+<ul style="line-height: 1.6; padding-left: 1.25rem;">
+  <li style="margin-bottom: 0.5rem;">
+    <strong>Postdoc &amp; Intern Positions (Immediate &amp; Rolling):</strong> Reviewed continuously upon receipt. Flexible start dates available as early as <strong>Fall 2026 / Winter 2026</strong>.
+  </li>
+  <li>
+    <strong>PhD Applicants (Fall 2026 / Spring 2027 Intake):</strong> Priority review for the upcoming cycle begins <strong>September 15th, 2026</strong>. Applications received after this date will still be considered on a rolling basis.
+  </li>
+</ul>
 
     <hr>
 
