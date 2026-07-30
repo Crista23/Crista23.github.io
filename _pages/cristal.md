@@ -20,20 +20,20 @@ nav_order: 2
 
 <p>We are building a collaborative, ambitious, and inclusive research group focused on pushing the boundaries of AI alignment, reasoning, safety evaluation, and interpretability. If you are passionate about building the future of trustworthy AI, explore our open positions and application guidelines below.</p>
 
-    <hr>
+<hr>
 
-    <h2>🎯 Research Vision</h2>
-    <p>Recent advances in foundation models have created powerful capabilities, but also raise fundamental challenges in safety, alignment, and reliability. CRISTAL focuses on three interconnected research directions:</p>
+<h2>🎯 Research Focus</h2>
+    <p>Recent advances in foundation models present tremendous capabilities alongside critical challenges in safety and reliability. CRISTAL focuses on three core, interconnected pillars:</p>
 
-    <ul>
-      <li><strong>AI Alignment:</strong> How can we build AI systems that behave in accordance with human intent and values while remaining robust and reliable?</li>
-      <li><strong>Safety Evaluation:</strong> How can we systematically evaluate AI systems before deployment and anticipate failure modes in advance?</li>
-      <li><strong>Transparent Decision-Making:</strong> How can we make modern AI systems more interpretable, accountable, and understandable?</li>
+<ul>
+      <li><strong>AI Alignment:</strong> Building foundation models and agentic systems that reliably adhere to human intent, values, and preferences.</li>
+      <li><strong>Safety & Robustness Evaluation:</strong> Designing systematic evaluation frameworks to anticipate failure modes, stress-test systems, and benchmark safety before deployment.</li>
+      <li><strong>Transparent & Interpretable Decision-Making:</strong> Developing techniques to make complex AI reasoning accountable, understandable, and continuously adaptable.</li>
     </ul>
 
-    <p>Our goal is to develop principled methods for building AI systems that are both highly capable and fundamentally trustworthy.</p>
+<p><strong>Core Research Topics:</strong> Foundation Models • AI Alignment & Evaluation • Reasoning & Decision-Making • Agentic & Multi-Agent Systems • Continual & Lifelong Learning • Interpretability & Transparency • AI Safety & Robustness</p>
 
-    <hr>
+<hr>
 
     <h2>💼 Open Positions</h2>
     <p>We invite applications for:</p>
