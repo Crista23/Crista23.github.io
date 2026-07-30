@@ -43,8 +43,8 @@ nav_order: 2
 <h3>Why Join CRISTAL?</h3>
     <ul>
       <li><strong>Shape a Founding Lab:</strong> Help define the scientific trajectory and culture of a dynamic, new research group from day one.</li>
-      <li><strong>Mentorship & Autonomy:</strong> Direct 1-on-1 guidance paired with the freedom to lead independent research agendas and publish at top venues (NeurIPS, ICML, ICLR, ACL, EMNLP, COLM).</li>
-      <li><strong>Institutional & Compute Resources:</strong> Access to world-class computational infrastructure, travel funding for conferences, and full visa support.</li>
+      <li><strong>Mentorship & Autonomy:</strong> Direct 1-on-1 guidance paired with the freedom to lead independent research agendas and publish at top-tier AI, ML and NLP venues.</li>
+      <li><strong>Institutional & Compute Resources:</strong> Access to robust computational infrastructure, travel funding for conferences, and full visa support.</li>
       <li><strong>Compensation & Benefits:</strong> Full-time position with competitive salary, comprehensive health insurance, paid vacation, and pension benefits.</li>
       <li><strong>Diverse Environment:</strong> International, interdisciplinary group located at CISPA in Germany, operating fully in <strong>English</strong>.</li>
     </ul>
