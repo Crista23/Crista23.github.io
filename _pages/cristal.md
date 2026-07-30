@@ -24,7 +24,7 @@ nav_order: 2
 
 <hr>
 
-<h2>🎯 Research Focus</h2>
+<h2>Research Focus</h2>
     <p>Recent advances in foundation models offer powerful capabilities alongside core challenges in safety and reliability. CRISTAL focuses on three core, interconnected pillars:</p>
 
 <ul>
