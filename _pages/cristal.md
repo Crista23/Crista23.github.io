@@ -57,7 +57,12 @@ nav_order: 2
 
 <ol>
   <li><strong>Curriculum Vitae (CV)</strong></li>
-  <li><strong>Research Statement (2–3 pages):</strong> Detail your past research contributions, future vision, and how your interests connect to CRISTAL’s mission.</li>
+  <li style="margin-bottom: 0.75rem;">
+    <strong>Research Statement (2–3 pages):</strong> Detail your past research contributions, future vision, and how your interests connect to CRISTAL’s mission.
+    <div style="background-color: rgba(20, 184, 166, 0.08); border-left: 3px solid #14b8a6; padding: 0.75rem 1rem; margin-top: 0.5rem; border-radius: 4px; font-size: 0.95rem;">
+      💡 <strong>Research Statement Guide:</strong> To help applicants prepare a strong statement, we provide a <a href="/assets/pdf/CRISTAL_Research_Statement_Guide.pdf" target="_blank"><strong>CRISTAL Research Statement Guide</strong></a> describing how we evaluate research statements and what we look for in successful applications.
+    </div>
+  </li>
   <li><strong>Representative Artifacts (Up to 3):</strong> Publications, preprints, code repositories, or technical project reports.</li>
   <li><strong>Academic Transcripts:</strong> Bachelor’s, Master’s, and PhD, as applicable.</li>
   <li><strong>References:</strong> Names and contact details of three academic advisors willing to provide reference letters upon request.</li>
