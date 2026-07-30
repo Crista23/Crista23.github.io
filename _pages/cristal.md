@@ -119,8 +119,12 @@ nav_order: 2
     <strong>Postdoc &amp; Intern Positions:</strong> Open continuously with flexible start dates year-round.
   </li>
   <li>
-    <strong>PhD Applicants:</strong> Immediate consideration for <strong>Fall/Winter 2026</strong> entry. For the <strong>2027 intake</strong> (Spring/Fall), early review begins <strong>October 15th, 2026</strong>, with full priority review continuing through <strong>December 15th, 2026</strong> and rolling review thereafter.
-  </li>
+  <strong>PhD Applicants:</strong> Applications are considered on a rolling basis:
+  <ul style="margin-top: 0.25rem; margin-bottom: 0.25rem; padding-left: 1.25rem;">
+    <li><strong>Fall/Winter 2026 Entry:</strong> Immediate consideration.</li>
+    <li><strong>2027 Intake:</strong> Early review begins <strong>October 15, 2026</strong>, with full priority review through <strong>December 15, 2026</strong>.</li>
+  </ul>
+</li>
 </ul>
 
     <hr>
