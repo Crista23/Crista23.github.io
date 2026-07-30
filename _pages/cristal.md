@@ -51,29 +51,29 @@ nav_order: 2
 
 <h2>📋 Application Guidelines</h2>
 
-<h3>1. Application Materials</h3>
-    <p>Please prepare your application materials as a <strong>single PDF file</strong> (or a link to a unified folder):</p>
-    <ol>
-      <li><strong>Curriculum Vitae (CV)</strong></li>
-      <li><strong>Research Statement (2–3 pages):</strong> Detail your past research contributions, future vision, and how your interests connect to CRISTAL’s mission.</li>
-      <li><strong>Representative Artifacts (Up to 3):</strong> Publications, preprints, code repositories, or technical project reports.</li>
-      <li><strong>Academic Transcripts</strong> (Bachelor’s, Master’s, and PhD, as applicable)</li>
-      <li><strong>References:</strong> Names and contact details of three academic advisors willing to provide reference letters upon request.</li>
-      <li><em>(Optional)</em> <strong>Responses to Research Questions</strong> (1–2 pages per question, highly encouraged):
-        <ul>
-          <li>How would you evaluate whether a modern AI system behaves reliably and in accordance with intended goals?</li>
-          <li>What are important or underexplored failure modes in current state-of-the-art AI systems?</li>
-          <li>How would you design methods to assess or improve the transparency and interpretability of AI systems?</li>
-          <li>What limitations do you see in current approaches to evaluating AI safety and robustness?</li>
-        </ul>
-      </li>
-    </ol>
+<p>Please prepare your application materials as a <strong>single PDF file</strong> (or a link to a unified folder):</p>
 
-<h3>2. Evaluation Criteria</h3>
+<ol>
+  <li><strong>Curriculum Vitae (CV)</strong></li>
+  <li><strong>Research Statement (2–3 pages):</strong> Detail your past research contributions, future vision, and how your interests connect to CRISTAL’s mission.</li>
+  <li><strong>Representative Artifacts (Up to 3):</strong> Publications, preprints, code repositories, or technical project reports.</li>
+  <li><strong>Academic Transcripts:</strong> Bachelor’s, Master’s, and PhD, as applicable.</li>
+  <li><strong>References:</strong> Names and contact details of three academic advisors willing to provide reference letters upon request.</li>
+ <li><em>(Optional)</em> <strong>Responses to Research Questions of Your Choice</strong> (1–2 pages per question, highly encouraged):
     <ul>
-      <li><strong>PhD & Intern Applicants:</strong> Curiosity, critical thinking, technical background (projects, coursework, or early research), and growth trajectory.</li>
-      <li><strong>Postdoctoral Applicants:</strong> Scientific independence, publication track record in relevant venues (NeurIPS, ICML, ICLR, ACL, EMNLP, COLM, etc.), leadership potential, and alignment with CRISTAL's core vision.</li>
+      <li>How would you evaluate whether a modern AI system behaves reliably and in accordance with intended goals?</li>
+      <li>What are important or underexplored failure modes in current state-of-the-art AI systems?</li>
+      <li>How would you design methods to assess or improve the transparency and interpretability of AI systems?</li>
+      <li>What limitations do you see in current approaches to evaluating AI safety and robustness?</li>
     </ul>
+  </li>
+</ol>
+
+<p><strong>Evaluation Criteria:</strong></p>
+<ul>
+  <li><strong>PhD & Intern Applicants:</strong> Curiosity, critical thinking, technical background (projects, coursework, or early research), and growth trajectory.</li>
+  <li><strong>Postdoctoral Applicants:</strong> Scientific independence, publication track record in relevant venues (NeurIPS, ICML, ICLR, ACL, EMNLP, COLM, etc.), leadership potential, and alignment with CRISTAL's core vision.</li>
+</ul>
 
 <hr>
 
