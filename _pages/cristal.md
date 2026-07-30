@@ -67,7 +67,7 @@ nav_order: 2
   </li>
   <li><strong>Representative Artifacts (Up to 3):</strong> Publications, preprints, code repositories, or technical project reports.</li>
   <li><strong>Academic Transcripts:</strong> Bachelor’s, Master’s, and PhD, as applicable.</li>
-  <li><strong>References:</strong> Names and contact details of three academic advisors willing to provide reference letters upon request.</li>
+  <li><strong>References:</strong> Names and contact information for 3 academic or professional references (letters will be requested directly for shortlisted candidates).</li>
  <li><em>(Optional)</em> <strong>Responses to Research Questions of Your Choice</strong> (1–2 pages per question, highly encouraged):
     <ul>
       <li>How would you evaluate whether a modern AI system behaves reliably and in accordance with intended goals?</li>
