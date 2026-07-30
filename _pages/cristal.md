@@ -42,7 +42,7 @@ nav_order: 2
     <ul>
       <li><strong>Shape a Founding Lab:</strong> Help define the scientific trajectory and culture of a dynamic, new research group from day one.</li>
       <li><strong>Mentorship & Autonomy:</strong> Direct 1-on-1 guidance paired with the freedom to lead independent research agendas and publish at top venues (NeurIPS, ICML, ICLR, ACL, EMNLP, COLM).</li>
-      <li><strong>Institutional & Compute Resources:</strong> Access to world-class computational infrastructure, generous travel funding for conferences, and full visa support.</li>
+      <li><strong>Institutional & Compute Resources:</strong> Access to world-class computational infrastructure, travel funding for conferences, and full visa support.</li>
       <li><strong>Competitive Compensation & Benefits:</strong> Full-time position under the <strong>TVöD E13 scale</strong>, comprehensive health insurance, paid vacation, and pension benefits.</li>
       <li><strong>Diverse Environment:</strong> International, interdisciplinary group located at CISPA in Germany, operating fully in <strong>English</strong>.</li>
     </ul>
