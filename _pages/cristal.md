@@ -38,7 +38,9 @@ nav_order: 2
 <hr>
 
 <h2>Open Positions & What We Offer</h2>
-    <p>We invite applications for fully funded <strong>PhD Students, Postdoctoral Researchers, and Research Interns (BSc/MSc/PhD)</strong> in CS, ML, NLP, AI Safety, and related fields.</p>
+   <p style="margin-bottom: 1rem;">
+  We invite applications from prospective <strong>PhD Students, Postdoctoral Researchers, and Research Interns (BSc/MSc/PhD)</strong> with strong backgrounds or interests in AI, ML, NLP, AI Safety, and related fields.
+</p>
 
 <h3>Why Join CRISTAL?</h3>
     <ul>
