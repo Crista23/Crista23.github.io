@@ -80,7 +80,7 @@ nav_order: 2
 <h2>📩 How to Apply</h2>
 
  <div style="background-color: var(--global-code-bg-color); padding: 1.2rem; border-radius: 6px; margin: 1.5rem 0;">
-      <p style="margin-top: 0;">Send your complete PDF application package directly to:</p>
+      <p style="margin-top: 0;">Send your complete application package directly to:</p>
 
 <p style="font-size: 1.1rem; margin: 0.5rem 0;">
         <strong>Dr. Cristina Garbacea</strong> — <a href="mailto:garbacea@uchicago.edu">garbacea@uchicago.edu</a><br>
