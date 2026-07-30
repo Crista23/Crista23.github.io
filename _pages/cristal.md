@@ -110,16 +110,18 @@ nav_order: 2
 
 <h3 style="margin-top: 2rem; margin-bottom: 0.75rem;">Timeline &amp; Start Dates</h3>
 
-<p style="margin-bottom: 0.75rem;">Applications are evaluated on a <strong>rolling basis</strong> year-round, with review timelines tailored by role:</p>
+<p style="margin-bottom: 0.75rem;">Applications are reviewed on a <strong>rolling basis</strong> upon receipt, with flexible start dates available as early as <strong>Fall 2026</strong>:</p>
 
 <ul style="line-height: 1.6; padding-left: 1.25rem;">
   <li style="margin-bottom: 0.5rem;">
-    <strong>Postdoc &amp; Intern Positions (Immediate &amp; Rolling):</strong> Reviewed continuously upon receipt. Flexible start dates available as early as <strong>Fall 2026 / Winter 2026</strong>.
+    <strong>Postdoc &amp; Intern Positions:</strong> Open continuously with flexible start dates year-round.
   </li>
   <li>
-  <strong>PhD Applicants (Rolling / Fall 2026 &amp; 2027 Intake):</strong> Applications are evaluated on a <strong>continuous, rolling basis</strong>. Early applications for <strong>Fall 2026 / Winter 2026</strong> entry are strongly encouraged and reviewed upon receipt. For candidates applying on the standard US/international cycle (Spring/Fall 2027), priority review begins <strong>October 15th, 2026</strong>.
-</li>
+    <strong>PhD Applicants:</strong> Immediate consideration for <strong>Fall/Winter 2026</strong> entry. For the main <strong>2027 intake</strong> (Spring/Fall), priority review begins <strong>October 15th, 2026</strong>.
+  </li>
 </ul>
+
+
 
     <hr>
 
