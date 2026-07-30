@@ -37,7 +37,7 @@ nav_order: 2
 
 <hr>
 
-<h2>💼 Open Positions & What We Offer</h2>
+<h2>Open Positions & What We Offer</h2>
     <p>We invite applications for fully funded <strong>PhD Students, Postdoctoral Researchers, and Research Interns (BSc/MSc/PhD)</strong> in CS, ML, NLP, AI Safety, and related fields.</p>
 
 <h3>Why Join CRISTAL?</h3>
@@ -51,7 +51,7 @@ nav_order: 2
 
     <hr>
 
-<h2>📋 Application Guidelines</h2>
+<h2>Application Guidelines</h2>
 
 <p>Please prepare your application materials as a <strong>single PDF file</strong> (or a link to a unified folder):</p>
 
@@ -89,7 +89,7 @@ nav_order: 2
 
 <hr>
 
-<h2>📩 How to Apply</h2>
+<h2>How to Apply</h2>
 
 <div style="background-color: rgba(20, 184, 166, 0.08); border-left: 4px solid #14b8a6; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
   <p style="margin-top: 0; color: inherit;">Send your complete application package directly to:</p>
@@ -103,7 +103,7 @@ nav_order: 2
   <code style="background-color: rgba(20, 184, 166, 0.18); padding: 0.2rem 0.4rem; border-radius: 4px; color: inherit; font-weight: 600;">[CRISTAL Application] [PhD / Postdoc / Research Intern] Your Name</code>
 </div>
 
-<p>🗓️ <strong>Timeline:</strong></p>
+<p><strong>Timeline:</strong></p>
     <ul>
       <li>Applications are reviewed on a <strong>rolling basis</strong>. Priority review begins <strong>September 15th, 2026</strong>.</li>
       <li>Start dates are flexible, available as early as <strong>Fall 2026</strong>.</li>
