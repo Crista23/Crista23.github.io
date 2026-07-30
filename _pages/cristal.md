@@ -31,7 +31,7 @@ nav_order: 2
       <li><strong>Transparent & Interpretable Decision-Making:</strong> Developing techniques to make complex AI reasoning accountable, understandable, and continuously adaptable.</li>
     </ul>
 
-<p><strong>Core Research Topics:</strong> Foundation Models • AI Alignment & Evaluation • Reasoning & Decision-Making • Agentic & Multi-Agent Systems • Continual & Lifelong Learning • Interpretability & Transparency • AI Safety & Robustness</p>
+<p><strong>Core Research Topics:</strong> • Foundation Models • AI Alignment & Evaluation • Reasoning & Decision-Making • Agentic & Multi-Agent Systems • Continual & Lifelong Learning • Interpretability & Transparency • AI Safety & Robustness</p>
 
 <hr>
 
