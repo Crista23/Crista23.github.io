@@ -43,7 +43,7 @@ layout: default
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit; text-transform: none;">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -66,7 +66,7 @@ layout: default
 
     <!-- Contact Section -->
     <div class="contact-section mt-4 mb-4">
-      <h2>contact</h2>
+      <h2 style="text-transform: none;">Contact</h2>
       <p>I welcome collaborations on LLM related topics. If you would like to discuss research ideas or 💎 CRISTAL lab opportunities, feel free to reach out at <a href="mailto:garbacea@uchicago.edu" style="color: var(--global-theme-color);">garbacea@uchicago.edu</a> or <a href="mailto:garbacea@umich.edu" style="color: var(--global-theme-color);">garbacea@umich.edu</a>.</p>
     </div>
 
