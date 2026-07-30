@@ -11,9 +11,11 @@ nav_order: 2
 
   <article>
   
-<div style="background-color: var(--global-card-bg-color, #f0f7ff); border-left: 4px solid #3182ce; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
-  <h2 style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.5rem; font-weight: 600; color: var(--global-text-color, inherit);">🚀 Open Positions: PhD, Postdoc &amp; Research Interns</h2>
-  <p style="margin-bottom: 0; color: var(--global-text-color, inherit);">We are recruiting fully funded researchers in <strong>Trustworthy AI &amp; Alignment</strong> at the CISPA Helmholtz Center for Information Security. Positions available as early as Fall 2026!</p>
+<div style="background-color: #f0fdfa; border-left: 4px solid #14b8a6; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
+  <h2 style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.5rem; font-weight: 600; color: #0f172a;">🚀 Open Positions: PhD, Postdoc &amp; Research Interns</h2>
+  <p style="margin-bottom: 0; color: #334155; font-size: 1rem; line-height: 1.5;">
+    We are recruiting fully funded researchers in <strong style="color: #0f172a;">Trustworthy AI &amp; Alignment</strong> at the CISPA Helmholtz Center for Information Security. Positions available as early as Fall 2026!
+  </p>
 </div>
 
 <p>Welcome to the <strong>CRISTAL Lab</strong> at CISPA! Our mission is to develop cutting-edge AI systems that can communicate effectively, reason reliably, operate safely in complex environments, and make transparent and trustworthy decisions.</p>
@@ -79,17 +81,17 @@ nav_order: 2
 
 <h2>📩 How to Apply</h2>
 
- <div style="background-color: var(--global-code-bg-color); padding: 1.2rem; border-radius: 6px; margin: 1.5rem 0;">
-      <p style="margin-top: 0;">Send your complete application package directly to:</p>
+ <div style="background-color: #f0fdfa; border-left: 4px solid #14b8a6; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
+  <p style="margin-top: 0;">Send your complete application package directly to:</p>
+  
+  <p>
+    <strong>Dr. Cristina Gârbacea</strong> — <a href="mailto:garbacea@uchicago.edu">garbacea@uchicago.edu</a><br>
+    <span style="color: #64748b;">Director, CRISTAL Lab | Tenure-Track Faculty &amp; Chief Scientist at CISPA</span>
+  </p>
 
-<p style="font-size: 1.1rem; margin: 0.5rem 0;">
-        <strong>Dr. Cristina Garbacea</strong> — <a href="mailto:garbacea@uchicago.edu">garbacea@uchicago.edu</a><br>
-        <small style="color: var(--global-text-color-light);">Director, CRISTAL Lab | Tenure-Track Faculty & Chief Scientist at CISPA</small>
-      </p>
-
-<p style="margin-top: 1rem; margin-bottom: 0.5rem;"><strong>Subject Line Format:</strong></p>
-      <code>[CRISTAL Application] [PhD / Postdoc / Intern] Your Name</code>
-    </div>
+  <p style="margin-bottom: 0.25rem;"><strong>Subject Line Format:</strong></p>
+  <code style="background-color: #e6f4f1; padding: 0.2rem 0.4rem; border-radius: 4px; color: #0284c7; font-weight: 600;">[CRISTAL Application] [PhD / Postdoc / Research Intern] Your Name</code>
+</div>
 
 <p>🗓️ <strong>Timeline:</strong></p>
     <ul>
