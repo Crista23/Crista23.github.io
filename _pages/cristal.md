@@ -76,11 +76,17 @@ nav_order: 2
   </li>
 </ol>
 
-<p><strong>Evaluation Criteria:</strong></p>
-<ul>
-  <li><strong>PhD & Intern Applicants:</strong> Curiosity, critical thinking, technical background (projects, coursework, or early research), and growth trajectory.</li>
-  <li><strong>Postdoctoral Applicants:</strong> Scientific independence, publication track record in relevant venues (NeurIPS, ICML, ICLR, ACL, EMNLP, COLM, etc.), leadership potential, and alignment with CRISTAL's core vision.</li>
-</ul>
+<div style="background-color: rgba(20, 184, 166, 0.05); border-left: 3px solid #14b8a6; padding: 1rem 1.25rem; margin-top: 1.5rem; border-radius: 4px;">
+  <h4 style="margin-top: 0; margin-bottom: 0.5rem; color: inherit;">🎯 Evaluation Criteria</h4>
+  <ul style="margin-bottom: 0; padding-left: 1.25rem; line-height: 1.6;">
+    <li style="margin-bottom: 0.5rem;">
+      <strong>PhD &amp; Intern Applicants:</strong> Curiosity, critical thinking, technical background (projects, coursework, or early research), and growth trajectory.
+    </li>
+    <li>
+      <strong>Postdoctoral Applicants:</strong> Scientific independence, publication track record in relevant venues (NeurIPS, ICML, ICLR, ACL, EMNLP, COLM, etc.), leadership potential, and alignment with CRISTAL's core vision.
+    </li>
+  </ul>
+</div>
 
 <hr>
 
