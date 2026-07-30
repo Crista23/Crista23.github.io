@@ -100,13 +100,6 @@ nav_order: 2
 
     <hr>
 
-  <h2>🏛️ About CISPA & The Director</h2>
-<p><strong>About the Director:</strong><br>
-    Dr. Cristina Garbacea is incoming Tenure-Track Faculty Member and Chief Scientist at CISPA, and Founding Director of CRISTAL Lab. She completed her Postdoc at the University of Chicago and earned her PhD in Computer Science & Engineering from the University of Michigan.</p>
-
-<p><strong>About CISPA:</strong><br>
-    The CISPA Helmholtz Center for Information Security is a premier global research institution in computer science, cybersecurity, and trustworthy AI located in Germany, producing leading research across top ML, NLP, and security venues.</p>
-
 <div style="text-align: center; margin-top: 3rem; padding: 1.5rem; background-color: var(--global-card-bg-color); border-radius: 6px;">
       <h3 style="margin-top: 0;">✨ Build the Future of Trustworthy AI</h3>
       <p style="margin-bottom: 0;">We look forward to welcoming enthusiastic researchers to our founding team!</p>
