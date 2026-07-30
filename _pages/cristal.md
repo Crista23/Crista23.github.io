@@ -76,14 +76,18 @@ nav_order: 2
   </li>
 </ol>
 
-<h3 style="margin-top: 2rem; margin-bottom: 0.75rem;">Evaluation Criteria</h3>
+<h3 style="margin-top: 2rem; margin-bottom: 0.75rem;">What We Look For</h3>
+
+<p style="margin-bottom: 0.75rem;">
+  We evaluate applications holistically based on overall potential, research fit, and alignment with CRISTAL’s mission:
+</p>
 
 <ul style="line-height: 1.6; padding-left: 1.25rem;">
   <li style="margin-bottom: 0.5rem;">
     <strong>PhD &amp; Intern Applicants:</strong> Curiosity, critical thinking, technical background (projects, coursework, or early research), and growth trajectory.
   </li>
   <li>
-    <strong>Postdoctoral Applicants:</strong> Scientific independence, publication track record in relevant venues (NeurIPS, ICML, ICLR, ACL, EMNLP, COLM, etc.), leadership potential, and alignment with CRISTAL's core vision.
+    <strong>Postdoctoral Applicants:</strong> Scientific independence, strong publication track record in relevant venues (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP, COLM), leadership potential, and alignment with the lab’s core vision.
   </li>
 </ul>
 
