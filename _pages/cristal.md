@@ -11,9 +11,9 @@ nav_order: 2
 
   <article>
   
-<div class="callout-box">
-  <h2>🚀 Open Positions: PhD, Postdoc & Research Interns</h2>
-  <p>We are recruiting fully funded researchers in <strong>Trustworthy AI & Alignment</strong> at the CISPA Helmholtz Center for Information Security starting Fall 2026!</p>
+<div style="background-color: #1e2227; border-left: 4px solid #3182ce; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
+  <h2 style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.5rem; font-weight: 600;">🚀 Open Positions: PhD, Postdoc &amp; Research Interns</h2>
+  <p style="margin-bottom: 0;">We are recruiting fully funded researchers in <strong>Trustworthy AI &amp; Alignment</strong> at the CISPA Helmholtz Center for Information Security starting Fall 2026!</p>
 </div>
 
 <p>Welcome to the <strong>CRISTAL Lab</strong> at CISPA! Our mission is to develop cutting-edge AI systems that can communicate effectively, reason reliably, operate safely in complex environments, and make transparent and trustworthy decisions.</p>
