@@ -76,7 +76,7 @@ nav_order: 2
   </li>
 </ol>
 
-<h3 style="margin-top: 2rem; margin-bottom: 0.75rem;">📊 Evaluation Criteria</h3>
+<h3 style="margin-top: 2rem; margin-bottom: 0.75rem;">Evaluation Criteria</h3>
 
 <ul style="line-height: 1.6; padding-left: 1.25rem;">
   <li style="margin-bottom: 0.5rem;">
