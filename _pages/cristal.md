@@ -93,7 +93,7 @@ nav_order: 2
 
 <p>🗓️ <strong>Timeline:</strong></p>
     <ul>
-      <li>Applications are reviewed on a <strong>rolling basis</strong>. Priority review begins <strong>September 1st, 2026</strong>.</li>
+      <li>Applications are reviewed on a <strong>rolling basis</strong>. Priority review begins <strong>September 15th, 2026</strong>.</li>
       <li>Start dates are flexible, starting as early as <strong>Fall 2026</strong>.</li>
       <li><em>For informal inquiries or pre-application questions, feel free to reach out to <a href="mailto:garbacea@uchicago.edu">garbacea@uchicago.edu</a>.</em></li>
     </ul>
