@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 💎 CRISTAL Lab
-description: Communication, Reasoning, Intelligence & Safety for Trustworthy Alignment
+description: Communication, Reasoning, Intelligence & Safety for Trustworthy ALignment
 permalink: /cristal/
 nav: true
 nav_order: 2
