@@ -101,7 +101,7 @@ nav_order: 2
   <p style="margin-top: 0; color: inherit;">Send your complete application package directly to:</p>
   
   <p style="color: inherit;">
-    <strong>Dr. Cristina Gârbacea</strong> — <a href="mailto:garbacea@uchicago.edu">garbacea@uchicago.edu</a><br>
+    <strong>Dr. Cristina Gârbacea</strong> — <a href="mailto:garbacea@cispa.de">garbacea@cispa.de</a><br>
     <span style="opacity: 0.8;">Director, CRISTAL Lab | Tenure-Track Faculty &amp; Chief Scientist at CISPA</span>
   </p>
 
