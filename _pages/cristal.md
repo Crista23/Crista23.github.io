@@ -18,7 +18,7 @@ nav_order: 2
   </p>
 </div>
 
-<p>Welcome to the <strong>CRISTAL Lab</strong> at CISPA! Our mission is to develop cutting-edge AI systems that can communicate effectively, reason reliably, operate safely in complex environments, and make transparent and trustworthy decisions.</p>
+<p>Welcome to the 💎 <strong>CRISTAL Lab</strong> at CISPA! Our mission is to develop cutting-edge AI systems that can communicate effectively, reason reliably, operate safely in complex environments, and make transparent and trustworthy decisions.</p>
 
 <p>We are building a collaborative, ambitious, and inclusive research group focused on pushing the boundaries of AI alignment, reasoning, safety evaluation, and interpretability. If you are passionate about building the future of trustworthy AI, explore our open positions and application guidelines below.</p>
 
