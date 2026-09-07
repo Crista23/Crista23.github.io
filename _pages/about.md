@@ -39,7 +39,7 @@ latest_posts:
 
 ### Biography
 
-I am a Postdoctoral Scholar at the [University of Chicago, Data Science Institute](https://datascience.uchicago.edu/), working with [Prof. Chenhao Tan](https://chenhaot.com/) and the [Chicago Human+AI (CHAI)](https://chicagohai.github.io/) research group. I previously collaborated with [Prof. Victor Veitch](https://www.victorveitch.com/).
+I am a Tenure-Track Faculty member and Chief Scientist at the [CISPA Helmholtz Center for Information Security](https://cispa.de/en), where I direct the 💎 [<strong>CRISTAL Lab</strong> — <em>Communication, Reasoning, Intelligence & Safety for Trustworthy ALignment</em>](https://cristal-lab.ai). Prior to joining CISPA, I was a Postdoctoral Scholar at the [University of Chicago, Data Science Institute](https://datascience.uchicago.edu/), working with [Prof. Chenhao Tan](https://chenhaot.com/) and the [Chicago Human+AI (CHAI)](https://chicagohai.github.io/) research group. I also collaborated with [Prof. Victor Veitch](https://www.victorveitch.com/).
 
 I earned my PhD in Computer Science and Engineering from the [University of Michigan](https://cse.engin.umich.edu/), advised by [Prof. Qiaozhu Mei](https://www.si.umich.edu/people/qiaozhu-mei). My academic background also includes an MSc in Artificial Intelligence (*cum laude*) from the [University of Amsterdam](https://www.uva.nl/en), and a double BSc in Computer Science and Electrical Engineering from [Transilvania University of Brasov](https://www.unitbv.ro/en/).
 
