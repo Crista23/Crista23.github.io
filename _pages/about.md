@@ -39,7 +39,7 @@ latest_posts:
 
 ### Biography
 
-I am a Tenure-Track Faculty member and Chief Scientist at the [CISPA Helmholtz Center for Information Security](https://cispa.de/en), where I direct the 💎 [<strong>CRISTAL Lab</strong>](https://cristal-lab.ai) — <em>Communication, Reasoning, Intelligence & Safety for Trustworthy ALignment</em>. 
+I am a Tenure-Track Faculty member and Chief Scientist at the [CISPA Helmholtz Center for Information Security](https://cispa.de/en), where I direct the 💎 [CRISTAL Lab](https://cristal-lab.ai) — <em>Communication, Reasoning, Intelligence & Safety for Trustworthy ALignment</em>. 
 
 Prior to joining CISPA, I was a Postdoctoral Scholar at the [University of Chicago, Data Science Institute](https://datascience.uchicago.edu/), working with [Prof. Chenhao Tan](https://chenhaot.com/) and the [Chicago Human+AI (CHAI)](https://chicagohai.github.io/) research group. I also collaborated with [Prof. Victor Veitch](https://www.victorveitch.com/).
 
