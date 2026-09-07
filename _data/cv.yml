@@ -2,7 +2,7 @@ cv:
   name: Cristina G&acirc;rbacea
   label: Tenure-Track Faculty & Chief Scientist at <a href="https://cispa.de/en">CISPA Helmholtz Center for Information Security</a>
   email: garbacea@cispa.de
-  location: Saarbrucken, Saarland, Germany
+  location: Saarbrucken, Germany
   image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
@@ -15,11 +15,11 @@ cv:
       username: example
 
   address:
-    street: 5735 S Ellis Ave
-    city: Chicago
-    region: Illinois
-    postalCode: IL 60637
-    countryCode: USA
+    street: Im oberen Wek 1
+    city: St. Ingbert
+    region: Saarbrucken, Saarland
+    postalCode: 66386
+    countryCode: Germany
 
   sections:
     Education:
