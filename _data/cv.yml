@@ -56,11 +56,21 @@ cv:
         #   - Description 2.
 
     Experience:
+      - company: <a href="https://cispa.de/en" target="_blank" rel="noopener noreferrer"><b>CISPA Helmholtz Center for Information Security</b></a>
+        position: Tenure-Track Faculty & Chief Scientist
+        location: Saarbrucken, Germany
+        start_date: Sept 2026
+        end_date: present
+        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        # highlights:
+        #   - Relativity
+        #   - Description 2.
+
       - company: <a href="https://datascience.uchicago.edu/" target="_blank" rel="noopener noreferrer"><b>University of Chicago, Data Science Institute</b></a>
         position: Postdoctoral Scholar
         location: Chicago, IL, USA
         start_date: Sept 2023
-        end_date: present
+        end_date: August 2026
         # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         # highlights:
         #   - Relativity
