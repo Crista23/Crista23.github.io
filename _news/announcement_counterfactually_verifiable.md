@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Personalized LLM Alignment Should Be Counterfactually Verifiable is accepted to NeurIPS 2026 :sparkles:
+*Personalized LLM Alignment Should Be Counterfactually Verifiable* is accepted to NeurIPS 2026 :sparkles: *(Preprint coming soon)*
