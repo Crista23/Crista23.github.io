@@ -97,7 +97,8 @@ nav_order: 2
 
 <h2>How to Apply</h2>
 
-<div style="background-color: rgba(20, 184, 166, 0.08); border-left: 4px solid #14b8a6; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
+
+<!-- <div style="background-color: rgba(20, 184, 166, 0.08); border-left: 4px solid #14b8a6; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
   <p style="margin-top: 0; color: inherit;">Send your complete application package directly to:</p>
   
   <p style="color: inherit;">
@@ -107,6 +108,18 @@ nav_order: 2
 
   <p style="margin-bottom: 0.25rem; color: inherit;"><strong>Subject Line Format:</strong></p>
   <code style="background-color: rgba(20, 184, 166, 0.18); padding: 0.2rem 0.4rem; border-radius: 4px; color: inherit; font-weight: 600;">[CRISTAL Application] [PhD / Postdoc / Research Intern] Your Name</code>
+</div> -->
+
+<div style="background-color: rgba(20, 184, 166, 0.08); border-left: 4px solid #14b8a6; padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem 0; border-radius: 4px;">
+  <p style="margin-top: 0; color: inherit;">Please submit your complete application package through the official CISPA hiring portal:</p>
+  
+  <p style="margin-bottom: 0.75rem; color: inherit;">
+    <a href="https://career.cispa.de/jobs/cristal-lab-26-146" target="_blank" style="display: inline-block; background-color: #14b8a6; color: #ffffff; padding: 0.5rem 1rem; border-radius: 4px; text-decoration: none; font-weight: 600;">Apply via CISPA Career Portal &rarr;</a>
+  </p>
+
+  <p style="margin-bottom: 0; font-size: 0.9em; opacity: 0.85; color: inherit;">
+    <em>For general research inquiries prior to submitting, you may reach out to <a href="mailto:garbacea@cispa.de">garbacea@cispa.de</a>. All formal application packages must be submitted via the portal.</em>
+  </p>
 </div>
 
 
