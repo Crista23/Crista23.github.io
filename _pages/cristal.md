@@ -118,7 +118,7 @@ nav_order: 2
   </p>
 
   <p style="margin-bottom: 0; font-size: 0.9em; opacity: 0.85; color: inherit;">
-    <em>For general research inquiries prior to submitting, you may reach out to <a href="mailto:garbacea@cispa.de">garbacea@cispa.de</a>. All formal application packages must be submitted via the portal.</em>
+    For general research inquiries prior to submitting, you may reach out to <a href="mailto:garbacea@cispa.de">garbacea@cispa.de</a>. All formal application packages must be submitted via the portal.
   </p>
 </div>
 
